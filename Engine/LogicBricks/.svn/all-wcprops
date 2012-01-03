@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1006/trunk/Engine/LogicBricks
+END
+gkScriptController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/801/trunk/Engine/LogicBricks/gkScriptController.h
+END
+gkRandomSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkRandomSensor.h
+END
+gkNearSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1005/trunk/Engine/LogicBricks/gkNearSensor.cpp
+END
+gkRadarSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkRadarSensor.cpp
+END
+gkRandomActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkRandomActuator.cpp
+END
+gkActionActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/825/trunk/Engine/LogicBricks/gkActionActuator.h
+END
+gkLogicSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1003/trunk/Engine/LogicBricks/gkLogicSensor.cpp
+END
+gkCollisionSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1006/trunk/Engine/LogicBricks/gkCollisionSensor.h
+END
+gkVisibilityActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkVisibilityActuator.cpp
+END
+gkKeyboardSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkKeyboardSensor.h
+END
+gkSoundActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/739/trunk/Engine/LogicBricks/gkSoundActuator.h
+END
+gkSceneActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkSceneActuator.cpp
+END
+gkParentActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkParentActuator.h
+END
+gkLogicActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkLogicActuator.h
+END
+gkLogicBrick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/801/trunk/Engine/LogicBricks/gkLogicBrick.cpp
+END
+gkMotionActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkMotionActuator.h
+END
+gkMouseSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkMouseSensor.cpp
+END
+gkCollisionSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1006/trunk/Engine/LogicBricks/gkCollisionSensor.cpp
+END
+gkStateActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkStateActuator.h
+END
+gkLogicManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkLogicManager.cpp
+END
+gkAlwaysSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkAlwaysSensor.cpp
+END
+gkSoundActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/801/trunk/Engine/LogicBricks/gkSoundActuator.cpp
+END
+gkVisibilityActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkVisibilityActuator.h
+END
+gkSceneActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkSceneActuator.h
+END
+gkActuatorSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkActuatorSensor.cpp
+END
+gkGameActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkGameActuator.cpp
+END
+gkLogicBrick.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/825/trunk/Engine/LogicBricks/gkLogicBrick.h
+END
+gkMessageSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1001/trunk/Engine/LogicBricks/gkMessageSensor.cpp
+END
+gkPropertySensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkPropertySensor.cpp
+END
+gkLogicLink.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/989/trunk/Engine/LogicBricks/gkLogicLink.h
+END
+gkStateActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkStateActuator.cpp
+END
+gkEditObjectActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1004/trunk/Engine/LogicBricks/gkEditObjectActuator.h
+END
+gkMouseSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkMouseSensor.h
+END
+gkDelaySensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkDelaySensor.cpp
+END
+gkRaySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkRaySensor.h
+END
+gkPropertyActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkPropertyActuator.h
+END
+gkMessageActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkMessageActuator.h
+END
+gkLogicManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkLogicManager.h
+END
+gkJoystickSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkJoystickSensor.h
+END
+gkAlwaysSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkAlwaysSensor.h
+END
+gkLogicOpController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkLogicOpController.cpp
+END
+gkLogicDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/857/trunk/Engine/LogicBricks/gkLogicDispatcher.cpp
+END
+gkLogicController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkLogicController.h
+END
+gkScriptController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/857/trunk/Engine/LogicBricks/gkScriptController.cpp
+END
+gkExpressionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/822/trunk/Engine/LogicBricks/gkExpressionController.h
+END
+gkRandomSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkRandomSensor.cpp
+END
+gkLogicLink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/989/trunk/Engine/LogicBricks/gkLogicLink.cpp
+END
+gkEditObjectActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1004/trunk/Engine/LogicBricks/gkEditObjectActuator.cpp
+END
+gkActionActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/911/trunk/Engine/LogicBricks/gkActionActuator.cpp
+END
+gkActuatorSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkActuatorSensor.h
+END
+gkGameActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkGameActuator.h
+END
+gkMessageSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1001/trunk/Engine/LogicBricks/gkMessageSensor.h
+END
+gkPropertySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkPropertySensor.h
+END
+gkNearSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1005/trunk/Engine/LogicBricks/gkNearSensor.h
+END
+gkRaySensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkRaySensor.cpp
+END
+gkPropertyActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkPropertyActuator.cpp
+END
+gkMessageActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkMessageActuator.cpp
+END
+gkRadarSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkRadarSensor.h
+END
+gkRandomActuator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkRandomActuator.h
+END
+gkJoystickSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkJoystickSensor.cpp
+END
+gkKeyboardSensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Engine/LogicBricks/gkKeyboardSensor.cpp
+END
+gkParentActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1000/trunk/Engine/LogicBricks/gkParentActuator.cpp
+END
+gkLogicSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkLogicSensor.h
+END
+gkDelaySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkDelaySensor.h
+END
+gkLogicActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/857/trunk/Engine/LogicBricks/gkLogicActuator.cpp
+END
+gkLogicController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/857/trunk/Engine/LogicBricks/gkLogicController.cpp
+END
+gkExpressionController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/822/trunk/Engine/LogicBricks/gkExpressionController.cpp
+END
+gkLogicOpController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/762/trunk/Engine/LogicBricks/gkLogicOpController.h
+END
+gkMotionActuator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/809/trunk/Engine/LogicBricks/gkMotionActuator.cpp
+END
+gkLogicDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/857/trunk/Engine/LogicBricks/gkLogicDispatcher.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/990/trunk/Samples/EmbedDemo
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/725/trunk/Samples/EmbedDemo/StdAfx.h
+END
+okUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/808/trunk/Samples/EmbedDemo/okUtils.h
+END
+okApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/808/trunk/Samples/EmbedDemo/okApp.h
+END
+okCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/801/trunk/Samples/EmbedDemo/okCamera.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/990/trunk/Samples/EmbedDemo/Main.cpp
+END
+logo_text.blend
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/685/trunk/Samples/EmbedDemo/logo_text.blend
+END
+okCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/801/trunk/Samples/EmbedDemo/okCamera.h
+END
+okWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/865/trunk/Samples/EmbedDemo/okWin.cpp
+END
+logo_text2.blend
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/801/trunk/Samples/EmbedDemo/logo_text2.blend
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Samples/EmbedDemo/StdAfx.cpp
+END
+okUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/808/trunk/Samples/EmbedDemo/okUtils.cpp
+END
+okApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/808/trunk/Samples/EmbedDemo/okApp.cpp
+END
+okWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/808/trunk/Samples/EmbedDemo/okWin.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/813/trunk/Samples/EmbedDemo/CMakeLists.txt
+END

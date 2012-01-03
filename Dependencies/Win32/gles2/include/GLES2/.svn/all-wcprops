@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/include/GLES2
+END
+gl2platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/include/GLES2/gl2platform.h
+END
+gl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/include/GLES2/gl2.h
+END
+gl2ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/include/GLES2/gl2ext.h
+END

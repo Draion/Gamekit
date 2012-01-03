@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/Win32
+END
+app.aps
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/Win32/app.aps
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/Win32/app.rc
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/Win32/app.ico
+END

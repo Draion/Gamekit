@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre
+END
+gkOgreParticleRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleRenderer.h
+END
+gkOgreParticleObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleObject.h
+END
+gkOgreParticleResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleResource.h
+END
+gkOgreParticleAffector.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleAffector.h
+END
+gkOgreParticleEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleEmitter.h
+END
+gkOgreParticleObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleObject.cpp
+END
+gkOgreParticleRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleRenderer.cpp
+END
+gkOgreParticleResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleResource.cpp
+END
+gkOgreParticleEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleEmitter.cpp
+END
+gkOgreParticleAffector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/851/trunk/Engine/Particles/Ogre/gkOgreParticleAffector.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/887/trunk/Docs/CppAPI
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/701/trunk/Docs/CppAPI/footer.html
+END
+Doxyfile.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/818/trunk/Docs/CppAPI/Doxyfile.txt.in
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/701/trunk/Docs/CppAPI/style.css
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/701/trunk/Docs/CppAPI/header.html
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/744/trunk/Docs/CppAPI/CMakeLists.txt
+END

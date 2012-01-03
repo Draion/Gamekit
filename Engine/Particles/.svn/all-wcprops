@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/851/trunk/Engine/Particles
+END
+gkParticleManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleManager.cpp
+END
+gkParticleObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleObject.h
+END
+gkParticleResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleResource.h
+END
+gkParticleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleManager.h
+END
+gkParticleObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleObject.cpp
+END
+gkParticleResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/851/trunk/Engine/Particles/gkParticleResource.cpp
+END

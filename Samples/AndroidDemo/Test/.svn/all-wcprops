@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/979/trunk/Samples/AndroidDemo/Test
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/979/trunk/Samples/AndroidDemo/Test/Main.cpp
+END
+AndroidLogListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/979/trunk/Samples/AndroidDemo/Test/AndroidLogListener.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/889/trunk/Samples/AndroidDemo/Test/CMakeLists.txt
+END
+AndroidLogListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/979/trunk/Samples/AndroidDemo/Test/AndroidLogListener.h
+END

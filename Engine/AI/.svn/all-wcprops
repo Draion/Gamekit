@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/725/trunk/Engine/AI
+END
+gkSteeringObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringObject.h
+END
+gkSteeringPathFollowing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringPathFollowing.cpp
+END
+gkSceneObstacle.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Engine/AI/gkSceneObstacle.h
+END
+gkSteering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/725/trunk/Engine/AI/gkSteering.cpp
+END
+gkSteeringWander.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringWander.cpp
+END
+gkRecast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/671/trunk/Engine/AI/gkRecast.cpp
+END
+gkSteeringPathFollowing.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringPathFollowing.h
+END
+gkSteering.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/725/trunk/Engine/AI/gkSteering.h
+END
+gkFSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/671/trunk/Engine/AI/gkFSM.cpp
+END
+gkSteeringWander.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringWander.h
+END
+gkRecast.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/671/trunk/Engine/AI/gkRecast.h
+END
+gkFSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/671/trunk/Engine/AI/gkFSM.h
+END
+gkNavMeshData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Engine/AI/gkNavMeshData.cpp
+END
+gkMeshData.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/671/trunk/Engine/AI/gkMeshData.h
+END
+gkNavMeshData.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/725/trunk/Engine/AI/gkNavMeshData.h
+END
+gkNavPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/725/trunk/Engine/AI/gkNavPath.cpp
+END
+gkSteeringCapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringCapture.cpp
+END
+gkNavPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/725/trunk/Engine/AI/gkNavPath.h
+END
+gkSteeringObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/671/trunk/Engine/AI/gkSteeringObject.cpp
+END
+gkSteeringCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Engine/AI/gkSteeringCapture.h
+END
+gkSceneObstacle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Engine/AI/gkSceneObstacle.cpp
+END

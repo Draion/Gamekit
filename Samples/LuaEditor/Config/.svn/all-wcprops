@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/865/trunk/Samples/LuaEditor/Config
+END
+config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/Config/config.xsd
+END
+luconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/865/trunk/Samples/LuaEditor/Config/luconfig.xml
+END
+config.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/Config/config.xsl
+END
+lutemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/Config/lutemplate.xml
+END

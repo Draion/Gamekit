@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/bin
+END
+libGLESv2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/bin/libGLESv2.dll
+END
+libEGL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/887/trunk/Dependencies/Win32/gles2/bin/libEGL.dll
+END

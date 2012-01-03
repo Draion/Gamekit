@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/983/trunk/UnitTests/OgreKitUnitTests
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/StdAfx.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/StdAfx.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/755/trunk/UnitTests/OgreKitUnitTests/CMakeLists.txt
+END

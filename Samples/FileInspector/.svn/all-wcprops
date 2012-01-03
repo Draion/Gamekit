@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/970/trunk/Samples/FileInspector
+END
+fbtDataView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/747/trunk/Samples/FileInspector/fbtDataView.cpp
+END
+fbtMainFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/858/trunk/Samples/FileInspector/fbtMainFrame.h
+END
+fbtInspectorFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/970/trunk/Samples/FileInspector/fbtInspectorFile.cpp
+END
+Blender.insp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/745/trunk/Samples/FileInspector/Blender.insp
+END
+BlenderGPL.insp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/745/trunk/Samples/FileInspector/BlenderGPL.insp
+END
+fbtDataView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/745/trunk/Samples/FileInspector/fbtDataView.h
+END
+fbtIcons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/721/trunk/Samples/FileInspector/fbtIcons.cpp
+END
+fbtInspectorFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/970/trunk/Samples/FileInspector/fbtInspectorFile.h
+END
+fbtApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/745/trunk/Samples/FileInspector/fbtApp.cpp
+END
+fbtIcons.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/718/trunk/Samples/FileInspector/fbtIcons.h
+END
+BulletFile.insp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/745/trunk/Samples/FileInspector/BulletFile.insp
+END
+fbtTextFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/718/trunk/Samples/FileInspector/fbtTextFile.cpp
+END
+fbtApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/858/trunk/Samples/FileInspector/fbtApp.h
+END
+fbtTextFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/718/trunk/Samples/FileInspector/fbtTextFile.h
+END
+fbtMainFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/970/trunk/Samples/FileInspector/fbtMainFrame.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/745/trunk/Samples/FileInspector/CMakeLists.txt
+END

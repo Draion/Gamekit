@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/851/trunk/Samples/LogicDemo
+END
+ACalls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/456/trunk/Samples/LogicDemo/ACalls.cpp
+END
+RatLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/787/trunk/Samples/LogicDemo/RatLogic.cpp
+END
+ACalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/456/trunk/Samples/LogicDemo/ACalls.h
+END
+OgreKitStartup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/OgreKitStartup.cfg
+END
+RatLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/RatLogic.h
+END
+SceneLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/815/trunk/Samples/LogicDemo/SceneLogic.cpp
+END
+SceneLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/SceneLogic.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/Main.cpp
+END
+MomoLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/787/trunk/Samples/LogicDemo/MomoLogic.cpp
+END
+momo_ogre_plus.blend
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/851/trunk/Samples/LogicDemo/momo_ogre_plus.blend
+END
+OgreKitResource.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/OgreKitResource.cfg
+END
+MomoLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/MomoLogic.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/ReadMe.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/CMakeLists.txt
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/725/trunk/Samples/LogicDemo/Common.h
+END

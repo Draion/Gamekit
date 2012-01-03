@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/978/trunk/Samples/LuaRuntime
+END
+Test0.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaRuntime/Test0.lua
+END
+Test1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/978/trunk/Samples/LuaRuntime/Test1.lua
+END
+Test0.blend
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/479/trunk/Samples/LuaRuntime/Test0.blend
+END
+Lua.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/808/trunk/Samples/LuaRuntime/Lua.cpp
+END
+Test1.blend
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/674/trunk/Samples/LuaRuntime/Test1.blend
+END
+Test2.blend
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/808/trunk/Samples/LuaRuntime/Test2.blend
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/808/trunk/Samples/LuaRuntime/CMakeLists.txt
+END

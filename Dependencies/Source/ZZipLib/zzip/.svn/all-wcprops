@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/948/trunk/Dependencies/Source/ZZipLib/zzip
+END
+memdisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/memdisk.h
+END
+write.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/write.h
+END
+_msvc.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/_msvc.sed
+END
+zzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zzip.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/Makefile.in
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zip.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/types.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/868/trunk/Dependencies/Source/ZZipLib/zzip/stdint.h
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/stat.c
+END
+_msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/_msvc.h
+END
+fseeko.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/fseeko.c
+END
+zzip-zlib-config.pc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zzip-zlib-config.pc
+END
+zzipmmapped.pc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zzipmmapped.pc
+END
+fseeko.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/fseeko.h
+END
+__fnmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/__fnmatch.h
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/err.c
+END
+fetch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/fetch.c
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/conf.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/info.c
+END
+__mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/__mmap.h
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/plugin.c
+END
+fetch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/fetch.h
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/info.h
+END
+zziplib.wpj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zziplib.wpj
+END
+zziplib.pc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zziplib.pc
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/plugin.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/ChangeLog
+END
+_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/948/trunk/Dependencies/Source/ZZipLib/zzip/_config.h
+END
+zzipfseeko.pc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/zzipfseeko.pc
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/lib.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/README
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/dir.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/file.c
+END
+mmapped.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/mmapped.c
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/autoconf.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/file.h
+END
+__dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/__dirent.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/Makefile.am
+END
+__hints.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/__hints.h
+END
+mmapped.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/mmapped.h
+END
+__debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/__debug.h
+END
+memdisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/memdisk.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/write.c
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/259/trunk/Dependencies/Source/ZZipLib/zzip/format.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/984/trunk/UnitTests/FbtUnitTests/TestData
+END
+le32Bitf.bullet
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/le32Bitf.bullet
+END
+le32bitLink.blend
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/le32bitLink.blend
+END
+le32bit.blend
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/984/trunk/UnitTests/FbtUnitTests/TestData/le32bit.blend
+END
+le32_bv225.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/le32_bv225.blend
+END
+le64bitLink.blend
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/le64bitLink.blend
+END
+be32bit.blend
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/be32bit.blend
+END
+Refl_le32bitLink.blend
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/728/trunk/UnitTests/FbtUnitTests/TestData/Refl_le32bitLink.blend
+END

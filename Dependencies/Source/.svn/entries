@@ -1,0 +1,76 @@
+10
+
+dir
+1006
+http://gamekit.googlecode.com/svn/trunk/Dependencies/Source
+http://gamekit.googlecode.com/svn
+
+
+
+2011-08-16T15:52:11.109169Z
+983
+harkon.kr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c957766c-2088-11de-b650-e715bd6d7cf1
+
+Recast
+dir
+
+Lua
+dir
+
+GameKit
+dir
+
+Blender25
+dir
+
+ZZipLib
+dir
+
+FreeType
+dir
+
+FreeImage
+dir
+
+opts
+dir
+
+OIS
+dir
+
+Codecs
+dir
+
+Detour
+dir
+
+tclap
+dir
+
+OpenSteer
+dir
+
+TinyXml
+dir
+
+libRocket
+dir
+
+OpenAL
+dir
+

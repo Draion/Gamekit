@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1006/trunk/Samples/Runtime/Regression
+END
+GameLogicChangeStateTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/821/trunk/Samples/Runtime/Regression/GameLogicChangeStateTest.blend
+END
+CompositorTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/922/trunk/Samples/Runtime/Regression/CompositorTest.blend
+END
+CompoundCollisionTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/812/trunk/Samples/Runtime/Regression/CompoundCollisionTest.blend
+END
+ShadowCastTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/863/trunk/Samples/Runtime/Regression/ShadowCastTest.blend
+END
+ParticleTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/820/trunk/Samples/Runtime/Regression/ParticleTest.blend
+END
+logo_text.blend
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/949/trunk/Samples/Runtime/Regression/logo_text.blend
+END
+MultiParentTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/MultiParentTest.blend
+END
+ConvertAllKeys.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/758/trunk/Samples/Runtime/Regression/ConvertAllKeys.blend
+END
+GameLogicExpressionTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/822/trunk/Samples/Runtime/Regression/GameLogicExpressionTest.blend
+END
+UVLayers.blend
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/524/trunk/Samples/Runtime/Regression/UVLayers.blend
+END
+TestLuaGetCollisionTouchObjects.blend
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1006/trunk/Samples/Runtime/Regression/TestLuaGetCollisionTouchObjects.blend
+END
+RTShaderTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/868/trunk/Samples/Runtime/Regression/RTShaderTest.blend
+END
+ScreenshotTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/977/trunk/Samples/Runtime/Regression/ScreenshotTest.blend
+END
+TestLuaNearSensor.blend
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1005/trunk/Samples/Runtime/Regression/TestLuaNearSensor.blend
+END
+LoadLuaFileTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/949/trunk/Samples/Runtime/Regression/LoadLuaFileTest.blend
+END
+HudOverlayTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/987/trunk/Samples/Runtime/Regression/HudOverlayTest.blend
+END
+TestDynamicChar.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/810/trunk/Samples/Runtime/Regression/TestDynamicChar.blend
+END
+AnimationStress.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/577/trunk/Samples/Runtime/Regression/AnimationStress.blend
+END
+clubsilo_packed.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/clubsilo_packed.blend
+END
+InGameHUDTest2.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/992/trunk/Samples/Runtime/Regression/InGameHUDTest2.blend
+END
+ConstraintTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/805/trunk/Samples/Runtime/Regression/ConstraintTest.blend
+END
+TestLuaController.blend
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1001/trunk/Samples/Runtime/Regression/TestLuaController.blend
+END
+GameLogicTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/GameLogicTest.blend
+END
+SimpleState.blend
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/SimpleState.blend
+END
+CrossLinks.blend
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/CrossLinks.blend
+END
+endobject_after_action_problem.blend
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/993/trunk/Samples/Runtime/Regression/endobject_after_action_problem.blend
+END
+ApplyTorqueToDynamicTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/809/trunk/Samples/Runtime/Regression/ApplyTorqueToDynamicTest.blend
+END
+VertexColors.blend
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/524/trunk/Samples/Runtime/Regression/VertexColors.blend
+END
+frequency_test.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1003/trunk/Samples/Runtime/Regression/frequency_test.blend
+END
+PhysicsAnimationBakingDemo.blend
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/PhysicsAnimationBakingDemo.blend
+END
+TextureBlendOpTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/826/trunk/Samples/Runtime/Regression/TextureBlendOpTest.blend
+END
+LogicBrickTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1000/trunk/Samples/Runtime/Regression/LogicBrickTest.blend
+END
+TestActionActStartEnd.blend
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/910/trunk/Samples/Runtime/Regression/TestActionActStartEnd.blend
+END
+LoopStressTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/LoopStressTest.blend
+END
+LoadLuaFileTest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/949/trunk/Samples/Runtime/Regression/LoadLuaFileTest.lua
+END
+BigEndian.blend
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/BigEndian.blend
+END
+MomoAnim25.blend
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/524/trunk/Samples/Runtime/Regression/MomoAnim25.blend
+END
+monkit2.blend
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/monkit2.blend
+END
+LoadBlendFileTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/949/trunk/Samples/Runtime/Regression/LoadBlendFileTest.blend
+END
+GameLogicActionTest.blend
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/825/trunk/Samples/Runtime/Regression/GameLogicActionTest.blend
+END
+MultiMat225.blend
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/MultiMat225.blend
+END
+CollisionSensor.blend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/CollisionSensor.blend
+END
+TestGetLastCreatedObj.blend
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1004/trunk/Samples/Runtime/Regression/TestGetLastCreatedObj.blend
+END
+TestMessageSystem.blend
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1001/trunk/Samples/Runtime/Regression/TestMessageSystem.blend
+END
+MultiMat249.blend
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/418/trunk/Samples/Runtime/Regression/MultiMat249.blend
+END

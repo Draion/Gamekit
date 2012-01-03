@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/982/trunk/Dependencies/Source/GameKit/Utils
+END
+utRandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utRandom.h
+END
+utString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/759/trunk/Dependencies/Source/GameKit/Utils/utString.cpp
+END
+utSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utSingleton.h
+END
+utMemoryPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utMemoryPool.h
+END
+utTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/982/trunk/Dependencies/Source/GameKit/Utils/utTypes.h
+END
+utScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utScript.h
+END
+utString.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/755/trunk/Dependencies/Source/GameKit/Utils/utString.h
+END
+utCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/933/trunk/Dependencies/Source/GameKit/Utils/utCommon.h
+END
+utStreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utStreams.cpp
+END
+utRandom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utRandom.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/903/trunk/Dependencies/Source/GameKit/Utils/CMakeLists.txt
+END
+utStreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/743/trunk/Dependencies/Source/GameKit/Utils/utStreams.h
+END
+utScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/762/trunk/Dependencies/Source/GameKit/Utils/utScript.cpp
+END

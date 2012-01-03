@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/991/trunk/Samples/GuiDemo
+END
+assets.blend
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/813/trunk/Samples/GuiDemo/assets.blend
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/991/trunk/Samples/GuiDemo/main.cpp
+END
+logo_text.blend
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/813/trunk/Samples/GuiDemo/logo_text.blend
+END
+uifonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/991/trunk/Samples/GuiDemo/uifonts.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/825/trunk/Samples/GuiDemo/CMakeLists.txt
+END

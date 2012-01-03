@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/983/trunk/UnitTests/OgreKitUnitTests/TestCase
+END
+testUtString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/859/trunk/UnitTests/OgreKitUnitTests/TestCase/testUtString.cpp
+END
+testUtHashTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/982/trunk/UnitTests/OgreKitUnitTests/TestCase/testUtHashTable.cpp
+END
+testUtArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/983/trunk/UnitTests/OgreKitUnitTests/TestCase/testUtArray.cpp
+END
+testCaseName.cpp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/TestCase/testCaseName.cpp.txt
+END

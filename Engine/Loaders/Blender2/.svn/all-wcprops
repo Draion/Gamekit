@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/964/trunk/Engine/Loaders/Blender2
+END
+gkTextureLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/725/trunk/Engine/Loaders/Blender2/gkTextureLoader.h
+END
+gkBlenderDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/891/trunk/Engine/Loaders/Blender2/gkBlenderDefines.h
+END
+gkBlendLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/808/trunk/Engine/Loaders/Blender2/gkBlendLoader.h
+END
+gkBlendInternalFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/872/trunk/Engine/Loaders/Blender2/gkBlendInternalFile.cpp
+END
+gkBlenderSceneConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/900/trunk/Engine/Loaders/Blender2/gkBlenderSceneConverter.cpp
+END
+gkBlendFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/898/trunk/Engine/Loaders/Blender2/gkBlendFile.cpp
+END
+gkLoaderCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/872/trunk/Engine/Loaders/Blender2/gkLoaderCommon.h
+END
+gkBlenderSceneConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/815/trunk/Engine/Loaders/Blender2/gkBlenderSceneConverter.h
+END
+gkBlendInternalFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/872/trunk/Engine/Loaders/Blender2/gkBlendInternalFile.h
+END
+gkTextureLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/815/trunk/Engine/Loaders/Blender2/gkTextureLoader.cpp
+END
+gkBlendFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/905/trunk/Engine/Loaders/Blender2/gkBlendFile.h
+END
+gkBlendLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/857/trunk/Engine/Loaders/Blender2/gkBlendLoader.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Resource
+END
+NodeDef.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Resource/NodeDef.xsd
+END
+NodeTreeDef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Resource/NodeTreeDef.xml
+END
+NodeResource.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Resource/NodeResource.xsd
+END
+Icon.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Resource/Icon.xpm
+END

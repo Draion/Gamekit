@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/815/trunk/Samples/CppDemo/Controllers
+END
+gkDefaultController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/764/trunk/Samples/CppDemo/Controllers/gkDefaultController.h
+END
+gkJoystickController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/764/trunk/Samples/CppDemo/Controllers/gkJoystickController.cpp
+END
+gkDefaultController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/815/trunk/Samples/CppDemo/Controllers/gkDefaultController.cpp
+END
+gkJoystickController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/764/trunk/Samples/CppDemo/Controllers/gkJoystickController.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Win32
+END
+application.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/Win32/application.rc
+END
+echo.ico
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/666/trunk/Samples/NodeEditor/Win32/echo.ico
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/984/trunk/Tools/FileTools/File
+END
+fbtScanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/718/trunk/Tools/FileTools/File/fbtScanner.l
+END
+fbtStreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/851/trunk/Tools/FileTools/File/fbtStreams.h
+END
+fbtTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/875/trunk/Tools/FileTools/File/fbtTypes.cpp
+END
+fbtFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/970/trunk/Tools/FileTools/File/fbtFile.h
+END
+fbtPlatformHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/746/trunk/Tools/FileTools/File/fbtPlatformHeaders.h
+END
+fbtBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/762/trunk/Tools/FileTools/File/fbtBuilder.cpp
+END
+fbtTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/984/trunk/Tools/FileTools/File/fbtTypes.h
+END
+fbtTables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/875/trunk/Tools/FileTools/File/fbtTables.cpp
+END
+fbtConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/851/trunk/Tools/FileTools/File/fbtConfig.h
+END
+fbtBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/851/trunk/Tools/FileTools/File/fbtBuilder.h
+END
+fbtStreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/851/trunk/Tools/FileTools/File/fbtStreams.cpp
+END
+fbtTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/875/trunk/Tools/FileTools/File/fbtTables.h
+END
+fbtFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/984/trunk/Tools/FileTools/File/fbtFile.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/975/trunk/Tools/FileTools/File/CMakeLists.txt
+END

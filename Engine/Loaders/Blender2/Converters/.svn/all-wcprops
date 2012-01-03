@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/964/trunk/Engine/Loaders/Blender2/Converters
+END
+gkAnimationConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/872/trunk/Engine/Loaders/Blender2/Converters/gkAnimationConverter.h
+END
+gkSkeletonConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/900/trunk/Engine/Loaders/Blender2/Converters/gkSkeletonConverter.cpp
+END
+gkParticleConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/851/trunk/Engine/Loaders/Blender2/Converters/gkParticleConverter.h
+END
+gkLogicBrickConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/964/trunk/Engine/Loaders/Blender2/Converters/gkLogicBrickConverter.cpp
+END
+gkSkeletonConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/900/trunk/Engine/Loaders/Blender2/Converters/gkSkeletonConverter.h
+END
+gkMeshConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/868/trunk/Engine/Loaders/Blender2/Converters/gkMeshConverter.cpp
+END
+gkLogicBrickConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/851/trunk/Engine/Loaders/Blender2/Converters/gkLogicBrickConverter.h
+END
+gkAnimationConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/Engine/Loaders/Blender2/Converters/gkAnimationConverter.cpp
+END
+gkMeshConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/851/trunk/Engine/Loaders/Blender2/Converters/gkMeshConverter.h
+END
+gkParticleConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/trunk/Engine/Loaders/Blender2/Converters/gkParticleConverter.cpp
+END

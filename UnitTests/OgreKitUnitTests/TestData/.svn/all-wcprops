@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/TestData
+END
+Test0.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/TestData/Test0.lua
+END
+Test0.blend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/TestData/Test0.blend
+END
+keepme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/728/trunk/UnitTests/OgreKitUnitTests/TestData/keepme.txt
+END

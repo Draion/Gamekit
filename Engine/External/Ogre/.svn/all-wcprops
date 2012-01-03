@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/985/trunk/Engine/External/Ogre
+END
+gkOgreSkeletonLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/725/trunk/Engine/External/Ogre/gkOgreSkeletonLoader.h
+END
+gkOgreSkyBoxGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/808/trunk/Engine/External/Ogre/gkOgreSkyBoxGradient.h
+END
+gkOgreMeshLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/938/trunk/Engine/External/Ogre/gkOgreMeshLoader.cpp
+END
+gkOgreCompositorHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/922/trunk/Engine/External/Ogre/gkOgreCompositorHelper.h
+END
+gkOgreMaterialLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/985/trunk/Engine/External/Ogre/gkOgreMaterialLoader.cpp
+END
+gkOgreBlendArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/938/trunk/Engine/External/Ogre/gkOgreBlendArchive.cpp
+END
+gkOgreMeshLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Engine/External/Ogre/gkOgreMeshLoader.h
+END
+gkOgreCompositorManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/922/trunk/Engine/External/Ogre/gkOgreCompositorManager.cpp
+END
+gkOgreMaterialLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/985/trunk/Engine/External/Ogre/gkOgreMaterialLoader.h
+END
+gkOgreSkeletonLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/808/trunk/Engine/External/Ogre/gkOgreSkeletonLoader.cpp
+END
+gkOgreBlendArchive.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/938/trunk/Engine/External/Ogre/gkOgreBlendArchive.h
+END
+gkOgreSkyBoxGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/808/trunk/Engine/External/Ogre/gkOgreSkyBoxGradient.cpp
+END
+gkOgreCompositorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/922/trunk/Engine/External/Ogre/gkOgreCompositorManager.h
+END
+gkOgreCompositorHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/922/trunk/Engine/External/Ogre/gkOgreCompositorHelper.cpp
+END

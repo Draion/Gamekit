@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/806/trunk/Dependencies/Source/opts
+END
+opts-0.9.10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/755/trunk/Dependencies/Source/opts/opts-0.9.10.txt
+END
+opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/806/trunk/Dependencies/Source/opts/opts.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/755/trunk/Dependencies/Source/opts/ChangeLog
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/755/trunk/Dependencies/Source/opts/COPYRIGHT
+END
+opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/806/trunk/Dependencies/Source/opts/opts.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/755/trunk/Dependencies/Source/opts/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/755/trunk/Dependencies/Source/opts/README
+END

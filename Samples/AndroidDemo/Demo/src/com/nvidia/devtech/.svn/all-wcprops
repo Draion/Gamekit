@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/868/trunk/Samples/AndroidDemo/Demo/src/com/nvidia/devtech
+END
+NvActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/868/trunk/Samples/AndroidDemo/Demo/src/com/nvidia/devtech/NvActivity.java
+END
+NvUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/868/trunk/Samples/AndroidDemo/Demo/src/com/nvidia/devtech/NvUtil.java
+END
+NvGLESActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/868/trunk/Samples/AndroidDemo/Demo/src/com/nvidia/devtech/NvGLESActivity.java
+END
+NvGLES2Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/868/trunk/Samples/AndroidDemo/Demo/src/com/nvidia/devtech/NvGLES2Activity.java
+END

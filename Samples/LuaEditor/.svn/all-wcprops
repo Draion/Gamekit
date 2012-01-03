@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/990/trunk/Samples/LuaEditor
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/StdAfx.h
+END
+luHelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luHelp.h
+END
+luUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luUtils.cpp
+END
+luProps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luProps.cpp
+END
+luMainFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luMainFrame.h
+END
+luWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luWizard.h
+END
+luConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luConfig.h
+END
+luProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/757/trunk/Samples/LuaEditor/luProcess.cpp
+END
+luFindRepDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luFindRepDlg.cpp
+END
+luFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luFile.cpp
+END
+luAnimDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luAnimDlg.h
+END
+luDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luDefs.cpp
+END
+luPropsPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luPropsPanel.cpp
+END
+luOutputs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/773/trunk/Samples/LuaEditor/luOutputs.cpp
+END
+luEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/780/trunk/Samples/LuaEditor/luEdit.cpp
+END
+luLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/990/trunk/Samples/LuaEditor/luLog.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/StdAfx.cpp
+END
+luHelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luHelp.cpp
+END
+luMainApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luMainApp.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/CMakeLists.txt
+END
+luProjPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/763/trunk/Samples/LuaEditor/luProjPanel.h
+END
+luMainFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/865/trunk/Samples/LuaEditor/luMainFrame.cpp
+END
+luWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/865/trunk/Samples/LuaEditor/luWizard.cpp
+END
+luStateFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luStateFrame.h
+END
+luUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luUtils.h
+END
+luConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luConfig.cpp
+END
+luProps.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luProps.h
+END
+luAnimDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luAnimDlg.cpp
+END
+luLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/990/trunk/Samples/LuaEditor/luLog.cpp
+END
+luProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/757/trunk/Samples/LuaEditor/luProcess.h
+END
+luFindRepDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luFindRepDlg.h
+END
+luFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/755/trunk/Samples/LuaEditor/luFile.h
+END
+luMainApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luMainApp.cpp
+END
+luDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luDefs.h
+END
+luPropsPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luPropsPanel.h
+END
+luOutputs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/773/trunk/Samples/LuaEditor/luOutputs.h
+END
+luEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/780/trunk/Samples/LuaEditor/luEdit.h
+END
+luProjPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luProjPanel.cpp
+END
+luStateFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/801/trunk/Samples/LuaEditor/luStateFrame.cpp
+END

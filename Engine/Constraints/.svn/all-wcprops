@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/762/trunk/Engine/Constraints
+END
+gkLimitRotConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitRotConstraint.h
+END
+gkConstraintManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkConstraintManager.cpp
+END
+gkLimitLocConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitLocConstraint.cpp
+END
+gkLimitVelocityConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitVelocityConstraint.cpp
+END
+gkConstraintManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkConstraintManager.h
+END
+gkConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkConstraint.cpp
+END
+gkLimitLocConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitLocConstraint.h
+END
+gkLimitVelocityConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitVelocityConstraint.h
+END
+gkLimitRotConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/725/trunk/Engine/Constraints/gkLimitRotConstraint.cpp
+END
+gkConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/762/trunk/Engine/Constraints/gkConstraint.h
+END

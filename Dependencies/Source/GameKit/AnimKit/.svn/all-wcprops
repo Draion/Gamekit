@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/903/trunk/Dependencies/Source/GameKit/AnimKit
+END
+akAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akAnimation.h
+END
+AnimKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/AnimKit.h
+END
+akBezierSpline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akBezierSpline.cpp
+END
+akAnimationPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationPlayer.cpp
+END
+akCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akCommon.h
+END
+akBezierSpline.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akBezierSpline.h
+END
+akAnimationPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationPlayer.h
+END
+akKeyedAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akKeyedAnimation.cpp
+END
+akKeyedAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akKeyedAnimation.h
+END
+akAnimationSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationSequence.cpp
+END
+akAnimationChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationChannel.cpp
+END
+akAnimationBlender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationBlender.cpp
+END
+akAnimationChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationChannel.h
+END
+akAnimationSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/792/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationSequence.h
+END
+akMathUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/787/trunk/Dependencies/Source/GameKit/AnimKit/akMathUtils.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/903/trunk/Dependencies/Source/GameKit/AnimKit/CMakeLists.txt
+END
+akAnimationBlender.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/trunk/Dependencies/Source/GameKit/AnimKit/akAnimationBlender.h
+END

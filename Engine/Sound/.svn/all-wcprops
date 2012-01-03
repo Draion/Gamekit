@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/801/trunk/Engine/Sound
+END
+gkOgg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/762/trunk/Engine/Sound/gkOgg.cpp
+END
+gkBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/762/trunk/Engine/Sound/gkBuffer.h
+END
+gkOgg.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/725/trunk/Engine/Sound/gkOgg.h
+END
+gkStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Engine/Sound/gkStreamer.cpp
+END
+gkSoundManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/801/trunk/Engine/Sound/gkSoundManager.cpp
+END
+gkSoundUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Engine/Sound/gkSoundUtil.cpp
+END
+gkWaveform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/762/trunk/Engine/Sound/gkWaveform.cpp
+END
+gkStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/725/trunk/Engine/Sound/gkStreamer.h
+END
+gkSoundManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/801/trunk/Engine/Sound/gkSoundManager.h
+END
+gkSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/801/trunk/Engine/Sound/gkSound.cpp
+END
+gkSoundUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/725/trunk/Engine/Sound/gkSoundUtil.h
+END
+gkWaveform.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/762/trunk/Engine/Sound/gkWaveform.h
+END
+gkSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/801/trunk/Engine/Sound/gkSound.h
+END
+gkSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/762/trunk/Engine/Sound/gkSource.cpp
+END
+gkSoundStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/725/trunk/Engine/Sound/gkSoundStream.cpp
+END
+gkSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/762/trunk/Engine/Sound/gkSource.h
+END
+gkSoundStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Engine/Sound/gkSoundStream.h
+END
+gkBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/725/trunk/Engine/Sound/gkBuffer.cpp
+END

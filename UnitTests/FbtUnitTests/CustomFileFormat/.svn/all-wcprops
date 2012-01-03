@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/971/trunk/UnitTests/FbtUnitTests/CustomFileFormat
+END
+Custom.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/970/trunk/UnitTests/FbtUnitTests/CustomFileFormat/Custom.h
+END
+customFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/970/trunk/UnitTests/FbtUnitTests/CustomFileFormat/customFile.h
+END
+customFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/971/trunk/UnitTests/FbtUnitTests/CustomFileFormat/customFile.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/969/trunk/UnitTests/FbtUnitTests/CustomFileFormat/CMakeLists.txt
+END

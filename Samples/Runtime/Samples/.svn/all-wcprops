@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/887/trunk/Samples/Runtime/Samples
+END
+Scene.blend
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/542/trunk/Samples/Runtime/Samples/Scene.blend
+END
+OgreSimpleGLSLES.blend
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/887/trunk/Samples/Runtime/Samples/OgreSimpleGLSLES.blend
+END
+MouseMotionActuator.blend
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/547/trunk/Samples/Runtime/Samples/MouseMotionActuator.blend
+END
+FSM.blend
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/547/trunk/Samples/Runtime/Samples/FSM.blend
+END
+GetSetParent.blend
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/547/trunk/Samples/Runtime/Samples/GetSetParent.blend
+END
+PerPixel_MultiMat_GLSL.blend
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/862/trunk/Samples/Runtime/Samples/PerPixel_MultiMat_GLSL.blend
+END
+OgreSimpleGLSL.blend
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/862/trunk/Samples/Runtime/Samples/OgreSimpleGLSL.blend
+END
+OgreNormalHLSL.blend
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/790/trunk/Samples/Runtime/Samples/OgreNormalHLSL.blend
+END
+DelaySensor.blend
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/547/trunk/Samples/Runtime/Samples/DelaySensor.blend
+END

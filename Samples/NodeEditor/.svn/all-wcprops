@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/817/trunk/Samples/NodeEditor
+END
+nsColorPalette.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsColorPalette.cpp
+END
+nsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsCommon.h
+END
+nsSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSocket.h
+END
+nsWorkspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsWorkspace.cpp
+END
+nsNodeEnums.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeEnums.h
+END
+nsMainWndow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsMainWndow.cpp
+END
+nsClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsClipboard.h
+END
+nsNodeTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeTree.cpp
+END
+nsSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSingleton.h
+END
+nsNodeProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeProperties.h
+END
+nsNodeTypeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeTypeInfo.h
+END
+nsString.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsString.h
+END
+nsFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsFont.h
+END
+nsTreeProperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsTreeProperties.cpp
+END
+nsNodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeReader.h
+END
+nsNodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodes.h
+END
+nsEventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsEventHandler.cpp
+END
+nsNodeManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeManager.cpp
+END
+nsSolutionBrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSolutionBrowser.cpp
+END
+nsPropertyPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsPropertyPage.cpp
+END
+nsXmlUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsXmlUtils.cpp
+END
+nsMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsMain.cpp
+END
+nsNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNode.cpp
+END
+nsVariable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsVariable.cpp
+END
+nsNodeCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeCanvas.h
+END
+nsSocketEditors.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSocketEditors.h
+END
+nsNodeWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeWriter.h
+END
+nsSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSocket.cpp
+END
+nsRenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsRenderSystem.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/CMakeLists.txt
+END
+nsMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsMath.h
+END
+nsDialogBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsDialogBase.h
+END
+nsClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsClipboard.cpp
+END
+nsColorPalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsColorPalette.h
+END
+nsNodeProperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeProperties.cpp
+END
+nsWorkspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsWorkspace.h
+END
+nsNodeTypeInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeTypeInfo.cpp
+END
+nsFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsFont.cpp
+END
+nsString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsString.cpp
+END
+nsNodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodes.cpp
+END
+nsNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeReader.cpp
+END
+nsNodeTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeTree.h
+END
+nsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/817/trunk/Samples/NodeEditor/nsData.h
+END
+nsMainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsMainWindow.h
+END
+nsTreeProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsTreeProperties.h
+END
+nsNodeCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeCanvas.cpp
+END
+nsNodeWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeWriter.cpp
+END
+nsSocketEditors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSocketEditors.cpp
+END
+nsEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsEventHandler.h
+END
+nsRenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsRenderSystem.cpp
+END
+nsNodeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNodeManager.h
+END
+nsSolutionBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsSolutionBrowser.h
+END
+nsDefaultStringConverters.inl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsDefaultStringConverters.inl
+END
+nsPropertyPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsPropertyPage.h
+END
+nsXmlUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsXmlUtils.h
+END
+nsMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsMath.cpp
+END
+nsDialogBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsDialogBase.cpp
+END
+nsNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsNode.h
+END
+nsVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/725/trunk/Samples/NodeEditor/nsVariable.h
+END

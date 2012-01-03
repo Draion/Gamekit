@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/992/trunk/Engine/Graphics
+END
+Graphics.zip
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/985/trunk/Engine/Graphics/Graphics.zip
+END
+gkHUDElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/992/trunk/Engine/Graphics/gkHUDElement.h
+END
+gkHUDManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/985/trunk/Engine/Graphics/gkHUDManager.h
+END
+gkHUD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/985/trunk/Engine/Graphics/gkHUD.cpp
+END
+gkHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/985/trunk/Engine/Graphics/gkHUD.h
+END
+gkHUDElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/992/trunk/Engine/Graphics/gkHUDElement.cpp
+END
+gkHUDManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/985/trunk/Engine/Graphics/gkHUDManager.cpp
+END
